@@ -1,5 +1,5 @@
 # TestAdmin10Labels
-These data are from the [PSMA Administrative Boundaries](https://data.gov.au/dataset/psma-administrative-boundaries) dataset.
+These boundaries are from the [PSMA Administrative Boundaries](https://data.gov.au/dataset/psma-administrative-boundaries) dataset.
 
 This dataset has been released under an End User Licence Agreement (EULA) based on the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 
